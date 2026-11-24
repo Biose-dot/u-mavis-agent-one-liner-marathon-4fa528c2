@@ -11,3 +11,8 @@ Notes:
 - Entry ditulis draf lalu direvisi di pesan kemudian (guard blank-entry ditambahkan via edit) — two-message gate terpenuhi.
 
 Status: built, pending coordinator bundle+submit
+
+- Submission ID: 01a20fb9-12ab-7282-83a6-a2f193224f45
+- Bundle: /home/hatch/workspace/makefun/u-mavis-agent-one-liner-marathon-4fa528c2-bundle.tar.gz
+- Status: submitted (see status output in finish-batch0516-a2.log)
+- Submitted: 2026-11-25 WIB (round 2, builder+finisher sessions)
